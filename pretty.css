@@ -1,0 +1,22 @@
+  body {
+        background-color:#e8e8e8;    
+        color: #8f9b87;
+    
+    }
+    
+    
+    #app-container {
+    
+        background: url("https://images.unsplash.com/photo-1487700160041-babef9c3cb55?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2052&q=80");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: right;
+        height: 115vh;
+       
+        
+       
+    
+    
+    
+    
+    }
