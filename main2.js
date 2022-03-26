@@ -135,7 +135,7 @@ function countdown() {
 //Check game status 
 function checkStatus() {
     if (!isPlaying && time === 0 )  {
-        message.innerHTML = 'Game over! Try Again!';
+        message.innerHTML = '“You only lose when you stop trying. Try Again!”';
         score = -1; 
     }
 
